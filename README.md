@@ -24,3 +24,5 @@ Uno de los objetivos de esta práctica es aprender a crear packages NodeJS y pub
  - Integre usando Travis
 
  - En esta tarea deberá trabajar con varios repos, uno para el módulo principal `ull-shape` y uno para cada shape específica: cree los diferentes repos dentro de la organización `ULL-ESIT-DSI-1617` siguiendo el patrón `creacion-de-paquetes-npm-team` para el módulo principal y `creacion-de-paquetes-npm-team-triangle` para el del triángulo, etc.
+ 
+ [Enlace de la práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicamodulestrategypattern.html)
