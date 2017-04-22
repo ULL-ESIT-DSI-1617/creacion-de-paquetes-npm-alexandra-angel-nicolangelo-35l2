@@ -1,0 +1,15 @@
+{
+  "name": "ull-shape-triangle-nico",
+  "version": "1.0.0",
+  "description": "version triangulo by nico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "triangle",
+    "ull-shape"
+  ],
+  "author": "Nicolangelo Famiglietti",
+  "license": "ISC"
+}
