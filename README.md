@@ -1,5 +1,9 @@
-**Práctica 8:  creacion-de-paquetes-npm-alexandra-angel-nicolangelo-35l2**
+# Práctica 8:  creacion-de-paquetes-npm-alexandra-angel-nicolangelo-35l2
 
+## Enlace a la Práctica
+[Práctica 8: creacion-de-paquetes-npm-alexandra-angel-nicolangelo-35l2](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicamodulestrategypattern.html)
+
+## Requisitos
 Uno de los objetivos de esta práctica es aprender a crear packages NodeJS y publicarlos en npm. El paquete se construye a partir de el código que se desarrolló en la práctica evaluar strategy pattern.
 
  - Se trata de construir un primer módulo npm ull-shape con el código de  la clase `Shape` 
@@ -25,4 +29,23 @@ Uno de los objetivos de esta práctica es aprender a crear packages NodeJS y pub
 
  - En esta tarea deberá trabajar con varios repos, uno para el módulo principal `ull-shape` y uno para cada shape específica: cree los diferentes repos dentro de la organización `ULL-ESIT-DSI-1617` siguiendo el patrón `creacion-de-paquetes-npm-team` para el módulo principal y `creacion-de-paquetes-npm-team-triangle` para el del triángulo, etc.
  
- [Enlace de la práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/practicas/practicamodulestrategypattern.html)
+ ## Asignatura
+* [Desarrollo de Sistemas Informáticos](https://campusvirtual.ull.es/1617/course/view.php?id=1136) de La Universidad de La Laguna.
+* Curso: 2016-2017
+* Itinerario: Tecnologías de la Información \(3º\)
+
+## Profesor
+Casiano Rodríguez León
+
+## Autores
+[Ángel Luis Morales Hernández](https://alu0100888157.github.io)
+* [GitHub](https://github.com/alu0100888157)
+
+[Alexandra Esplugas Sabina](https://alu0100762006.github.io)
+* [GitHub](https://github.com/alu0100762006)
+
+[Nicolangelo Famiglietti](https://alu0100912005.github.io)
+* [GitHub](https://github.com/alu0100912005)
+
+## Enlace del grupo
+[Enlace al grupo en GitHub](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alexandra-angel-nicolangelo-35l2)
